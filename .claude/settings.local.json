@@ -2,7 +2,6 @@
   "env": {
     "CONDA_PREFIX": "C:\\anaconda3\\env\\reflex311",
     "CONDA_DEFAULT_ENV": "reflex311",
-    "PYTHON": "C:\\anaconda3\\env\\reflex311\\python.exe",
-    "PYTHONHOME": "C:\\anaconda3\\env\\reflex311"
+    "PYTHON": "C:\\anaconda3\\env\\reflex311\\python.exe"
   }
 }
